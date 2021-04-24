@@ -1,0 +1,27 @@
+{
+  "name": "testserverjs",
+  "version": "1.0.0",
+  "description": "testproj",
+  "main": "index.js",
+  "start": "node app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirusha123/testserverjs.git"
+  },
+  "keywords": [
+    "aboba"
+  ],
+  "author": "Abobas Gachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirusha123/testserverjs/issues"
+  },
+  "homepage": "https://github.com/kirusha123/testserverjs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-url-shortener": "^1.1.11"
+  }
+}
